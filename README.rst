@@ -1,6 +1,9 @@
 Manga, a sweet MongoDB abstraction layer
 ========================================
 
+**note** This repo is created from package https://pypi.python.org/pypi/manga/0.1.2 who's
+link to github is currently empty. This is not my work and I claim no credit for it.
+
 Manga provides a simpler way for working with a MongoDB database.
 It is provided in a single python source file with no dependencies other than
 the Python Standard Library.
